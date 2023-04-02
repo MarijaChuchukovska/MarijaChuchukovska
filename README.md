@@ -1,6 +1,10 @@
 ### Hi there 👋
  I am Junior Software Tester with a passion for finding defects and ensuring software quality. Seeking a challenging role that allows me to learn new testing methodologies, tools, and technologies, while contributing to a company's success. 
- 
+  - Robot Framework
+  - MySql
+  - Postman
+  - Jmeter
+  - Manual Testing
 <!--
 **MarijaChuchukovska/MarijaChuchukovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
